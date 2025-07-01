@@ -1,4 +1,3 @@
-// [IMPORTS & GLOBAL]
 import 'dart:async';
 import 'dart:io';
 import 'dart:typed_data';
@@ -23,7 +22,6 @@ class MyApp extends StatelessWidget {
       );
 }
 
-// [GALLERY / CAMERA SCREEN]
 class ImagePickerDemo extends StatefulWidget {
   @override
   _ImagePickerDemoState createState() => _ImagePickerDemoState();
