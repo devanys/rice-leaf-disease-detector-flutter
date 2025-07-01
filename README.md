@@ -2,7 +2,7 @@
 
 A Flutter-based mobile application for detecting rice leaf diseases using a TensorFlow Lite (TFLite) model.
 
-![Demo Screenshot](assets/images/logo.png) <!-- Ganti jika ada screenshot lain -->
+![Untitled design](https://github.com/user-attachments/assets/b06a51cd-8580-4f52-9fd2-8b35054f27a8)
 
 ## 🚀 Features
 
