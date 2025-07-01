@@ -18,3 +18,5 @@ A Flutter-based mobile application for detecting rice leaf diseases using a Tens
 - **TensorFlow Lite**
 - **camera** & **image_picker**
 - **TFLite model** trained on rice leaf disease dataset
+
+## Data Class
