@@ -50,7 +50,7 @@ The app can identify the following rice leaf conditions:
 4. **View results** with disease classification and confidence score
 5. **Take action** based on the detected disease type
 
-## 🧠 TFlite Model
+## 🧠 TFlite Model (YoLo)
 
 **https://colab.research.google.com/drive/1TpPNVuus9liP2qMGzTFFY6cBOTc4xIpH?usp=sharing**
 ![image](https://github.com/user-attachments/assets/e180e940-b1aa-428b-83bb-590b2b1433be)
